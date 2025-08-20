@@ -1,20 +1,20 @@
-# 📊 Visualisation Toolkit – Lakshit Singh Bisht
+# Visualisation Toolkit – Lakshit Singh Bisht
 
 A collection of **visualisation tools and experiments** for mathematics and computing.  
 This repository contains code, notebooks, and scripts to generate **diagrams, plots, and interactive visualisations** for research and teaching purposes.  
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
-- **Notebooks/** – Jupyter notebooks with step-by-step visualisations  
-- **Scripts/** – Python/Matplotlib/SymPy code snippets  
-- **TikZ/** – LaTeX TikZ drawings for papers and presentations  
-- **Interactive/** – Exploratory tools (e.g., GeoGebra, Plotly)  
+- **Notebooks** – Jupyter notebooks with step-by-step visualisations  
+- **Scripts** – Python/Matplotlib/SymPy code snippets  
+- **TikZ** – LaTeX TikZ drawings for papers and presentations  
+- **Interactive** – Exploratory tools (e.g., GeoGebra, Plotly)  
 
 ---
 
-## 🎯 Goals
+## Goals
 
 - Provide clean visualisations for **mathematical concepts** (analysis, topology, algebra, etc.)  
 - Build reusable **LaTeX/TikZ diagrams** for research papers  
@@ -23,7 +23,7 @@ This repository contains code, notebooks, and scripts to generate **diagrams, pl
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Python** – NumPy, Matplotlib, SymPy, Plotly  
 - **Jupyter Notebook** – interactive exploration  
@@ -32,7 +32,7 @@ This repository contains code, notebooks, and scripts to generate **diagrams, pl
 
 ---
 
-## 🔗 Academic Links
+## Academic Links
 
 - [Research Portfolio](https://github.com/LakshitSinghBishtTM/Research-Portfolio)  
 - [Google Scholar](https://scholar.google.com/citations?user=cAZxaQMAAAAJ)  
