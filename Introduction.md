@@ -40,6 +40,6 @@ This repository contains code, notebooks, and scripts to generate **diagrams, pl
 
 ---
 
-## 📜 License
+## License
 
 This repository is licensed under the [MIT License](LICENSE).
